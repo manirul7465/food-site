@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&family=Poppins&display=swap');
+
+
+
+
+
+body{font-family: 'Montserrat', sans-serif;}
+
+
+
+.first-container{display: flex;margin-top: 50px;}
+.fifty{width: 50%;padding-left: 120px;}
+.fifty img{width:80%;}
+
+.order-now{text-decoration: none; padding: 10px 50px;
+    border-radius: 20px;
+     background-image: linear-gradient(red, orange);}
+.span-color{color: orange;}
+.para{padding-bottom: 20px;}
+
+
+
+.sec{background-image:url(img/7.png);width: 1200px;height: 500px;}
+
+
+.sec-part{display: flex;}
+.both-part{width: 50%;; margin:50px;
+    padding:100px ; margin-left: 50px;}
+.both-part img{width: 150%; }
+.contact{text-decoration: none;    
+background-image: linear-gradient(orange,red);padding: 10px 20px;
+ border-radius: 10px;
+}
+.para-part{padding-bottom:60px;}
+
+.recepies{ width: 706px;
+height: 69px;text-align: center;margin:auto;padding-bottom: 80px;
+
+}     
+
+
+.item{width: 337px; padding: 10px;margin: 30px;
+    box-shadow: 15px 15px 50px 0 gray;
+
+height: 428px; border-radius: 10px;
+
+}
+
+.item img{width: 337px;
+height: 256px;
+
+
+}
+
+.all-recipies{display: flex;justify-content: center;padding-bottom: 50px;}
+
+
+
+
+.over{width:1200px ;display: flex;justify-content: center;
+    border-radius: 30px;
+
+height: 226px;
+box-shadow: 15px 15px 50px 0 gray;
+
+}
+
+
+.over img{width:250px;height: 120px;}
+
+
+
+
+.footer{padding: 70px; background: black; margin-top: 52px; text-align: center;}
+.orange{color: orange; font-family: roboto; font-weight: 900; font-size: 30px;}
+.net{color:grey;  font-family: Manrope; font-weight: 800; font-size: 30px;}
